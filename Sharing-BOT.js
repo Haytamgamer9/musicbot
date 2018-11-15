@@ -19,4 +19,4 @@ BuildC4.on("guildMemberAdd", member => {
 **`) 
 }).catch(console.error)
 })
-BOT_TOKEN.login('');
+BuildC4.login('NTEyMzgzMjM0MzYyMDQ4NTMy.Ds7uww.fP7UyUbzGUub1avgJSMHdyQAKA0');
